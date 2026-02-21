@@ -1,6 +1,6 @@
 # Customer Segmentation Using K-Means Clustering
 
-## 📊 Project Overview
+##  Project Overview
 
 Understanding customer behavior is critical for businesses aiming to improve marketing effectiveness and increase revenue. This project applies **unsupervised machine learning (K-Means clustering)** to segment mall customers based on income and spending behavior.
 
@@ -8,7 +8,7 @@ The objective is to identify distinct customer groups and provide actionable bus
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Retail businesses often treat all customers similarly, leading to inefficient marketing campaigns and missed revenue opportunities.
 
@@ -18,7 +18,7 @@ This project answers the question:
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 
 The dataset contains 200 mall customers with the following features:
 
@@ -66,7 +66,7 @@ K-Means clustering with `k = 5` was used to segment customers.
 
 ---
 
-## 📈 Customer Segments Identified
+##  Customer Segments Identified
 
 | Cluster | Segment Name       | Characteristics             |
 | ------- | ------------------ | --------------------------- |
@@ -78,7 +78,7 @@ K-Means clustering with `k = 5` was used to segment customers.
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 ### Premium Customers
 
@@ -110,7 +110,7 @@ K-Means clustering with `k = 5` was used to segment customers.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -122,7 +122,7 @@ K-Means clustering with `k = 5` was used to segment customers.
 
 ---
 
-## 📌 Key Takeaways
+##  Key Takeaways
 
 * Customer behavior varies significantly even among similar income groups.
 * Behavioral segmentation is more powerful than demographic grouping alone.
@@ -130,7 +130,7 @@ K-Means clustering with `k = 5` was used to segment customers.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Include Age and Gender in clustering
 * Compare with Hierarchical Clustering
@@ -139,7 +139,7 @@ K-Means clustering with `k = 5` was used to segment customers.
 
 ---
 
-## 👤 Author
+##  Author
 
 **FAYEMI ANTHONY**
 Aspiring Data Analyst / Data Scientist
